@@ -116,7 +116,7 @@ describe('CommentRepositoryPostgres', () => {
         const comment = await CommentsTableTestHelper.findCommentById(
           'comment-123',
         );
-        console.log(comment);
+
         // assert
         expect(comment.is_deleted).toEqual(true);
       });
