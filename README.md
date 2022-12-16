@@ -1,7 +1,7 @@
 # forum-api
 ## cara menginstall aplikasi
 1. cd forum-api
-2. buat file .env 
+2. buat file .env mengikuti flie .env.example
 3. npm install
 4. npm run start:dev
 ## cara migrasi database postgresql
