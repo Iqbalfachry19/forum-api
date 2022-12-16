@@ -1,9 +1,9 @@
 # forum-api
--cara menginstall aplikasi
-cd forum-api
-npm install
-npm run start:dev
--cara migrasi database
+## cara menginstall aplikasi
+1. cd forum-api
+2. npm install
+3. npm run start:dev
+## cara migrasi database
 npm run migrate
--untuk mengetest aplikasi
+## cara mengetest aplikasi
 npm run test
