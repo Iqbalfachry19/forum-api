@@ -5,7 +5,7 @@
 3. npm run start:dev
 ## cara migrasi database postgresql
 1. buat database forumapi
-2. buat database forumapi-test
+2. buat database forumapi_test
 3. npm run migrate
 4. npm run migrate:test
 
